@@ -118,4 +118,7 @@ Esse padrão — fila como trigger, Lambda como processador, DynamoDB como estad
 
 ---
 
-*Anotações de estudo produzidas para portfólio pessoal de projetos serverless, com exemplos e diagramas autorais.*
+### 👨‍💻 Autoria e Notas Finais
+
+* **Por:** Enner Sebastião Garcia
+* **Nota:** Todas as imagens foram produzidas por IA.
